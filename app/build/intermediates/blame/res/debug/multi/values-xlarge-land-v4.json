@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\ament\\Documents\\MEGA\\Documenti\\Documenti\\Progetti ANDROID Studio\\ParkCar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\Users\\ament\\.android\\build-cache\\7f4c0f032cbc81d23d2cac507af38d79ae758eac\\output\\res\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 63,
+                        "endOffset": 114
+                    }
+                }
+            }
+        ]
+    }
+]

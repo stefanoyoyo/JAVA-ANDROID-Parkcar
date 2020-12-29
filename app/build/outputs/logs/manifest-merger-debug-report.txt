@@ -1,0 +1,318 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:5:22-76
+application
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:7:5-56:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\ament\.android\build-cache\7f4c0f032cbc81d23d2cac507af38d79ae758eac\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\ament\.android\build-cache\5d986f91e74e1e2dd07c9f13fdf2e1ce2a5cf7a4\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\ament\.android\build-cache\c7f92f236145d565daddd4325ec4bba4223f1bb7\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ament\.android\build-cache\5244a77b37243114b554825a57345b59af2639c3\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\ament\.android\build-cache\dff82988d8db950138bf319777f0dffd6ae4aaa6\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\ament\.android\build-cache\71328febab5f453bb3fc275d8540314bdd10cff8\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\ament\.android\build-cache\a54c8b38ae296bbbe1f520b0e5f210f01090fb9c\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\ament\.android\build-cache\49c179828c63d00f415806310924afa285b504cc\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\ament\.android\build-cache\936719cb334fea76c0fd75a8eadd38da3931bdaf\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\ament\.android\build-cache\80cab5c0be7d13f898fd8129e449f68023b8eafc\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\ament\.android\build-cache\4872addfb2f377dc7eb8bba49381e2fb4d5663ab\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\ament\.android\build-cache\da50ea0549149b4803c1aec912ca9c62c82382b6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\ament\.android\build-cache\d97ca709116bc119ef142ac4537c03bab71d070b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\ament\.android\build-cache\f84f374bcd2c3726e3eadf5301c6b4b8fcd898b1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\ament\.android\build-cache\87cceed0a5bff8e12ea89e7420fdf8dd34914e37\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\ament\.android\build-cache\8e41db2ad0354c5f85157b72d7d491a2936eb3bf\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\ament\.android\build-cache\8d8362ee76287afe34070a20c41a8cdaf2cec33d\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:9:9-37
+	android:theme
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.ste.parkcar.MainActivity
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.example.ste.parkcar.Welcome
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:20:9-45
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:20:19-42
+activity#com.example.ste.parkcar.Guide
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:21:9-43
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:21:19-40
+activity#com.example.ste.parkcar.GuidaIntroduzione
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:22:9-55
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:22:19-52
+activity#com.example.ste.parkcar.Utility_Activity
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:23:9-54
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:23:19-51
+activity#com.example.ste.parkcar.DistanzaDaPercorrere_Activity
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:24:9-67
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:24:19-64
+activity#com.example.ste.parkcar.Litri_carburante_spesi
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:25:9-60
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:25:19-57
+activity#com.example.ste.parkcar.Gestisci_disco_orario
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:26:9-59
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:26:19-56
+activity#com.example.ste.parkcar.prezzo_selfservice_benzina
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:27:9-64
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:27:19-61
+receiver#com.example.ste.parkcar.Alarm_Receiver
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:29:9-52
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:29:19-49
+service#com.example.ste.parkcar.RingtonePlayingService
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:31:9-33:38
+	android:enabled
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:33:13-35
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:32:13-51
+activity#com.example.ste.parkcar.Position_Manager
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:35:9-54
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:35:19-51
+activity#com.example.ste.parkcar.MemorizzaPosizioneAuto
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:36:9-60
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:36:19-57
+activity#com.example.ste.parkcar.Posizioni_memorizzate
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:37:9-59
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:37:19-56
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:46:9-48:55
+	android:value
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:48:13-52
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:47:13-58
+activity#com.example.ste.parkcar.Torna_all_auto
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:50:9-52:69
+	android:label
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:52:13-66
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:51:13-43
+activity#com.example.ste.parkcar.Setup
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:53:9-43
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:53:19-40
+activity#com.example.ste.parkcar.CancellaUnaPosizione
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:54:9-58
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:54:19-55
+activity#com.example.ste.parkcar.CancellaTutteLePosizioni
+ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:55:9-62
+	android:name
+		ADDED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml:55:19-59
+uses-sdk
+INJECTED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\ament\.android\build-cache\7f4c0f032cbc81d23d2cac507af38d79ae758eac\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\ament\.android\build-cache\5d986f91e74e1e2dd07c9f13fdf2e1ce2a5cf7a4\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\ament\.android\build-cache\c7f92f236145d565daddd4325ec4bba4223f1bb7\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ament\.android\build-cache\5244a77b37243114b554825a57345b59af2639c3\output\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.7] C:\Users\ament\.android\build-cache\2513997b28bff2cfc0a817a16fbd3e86a67364ce\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\ament\.android\build-cache\dff82988d8db950138bf319777f0dffd6ae4aaa6\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\ament\.android\build-cache\71328febab5f453bb3fc275d8540314bdd10cff8\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\ament\.android\build-cache\a54c8b38ae296bbbe1f520b0e5f210f01090fb9c\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\ament\.android\build-cache\49c179828c63d00f415806310924afa285b504cc\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\ament\.android\build-cache\936719cb334fea76c0fd75a8eadd38da3931bdaf\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\ament\.android\build-cache\80cab5c0be7d13f898fd8129e449f68023b8eafc\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\ament\.android\build-cache\4872addfb2f377dc7eb8bba49381e2fb4d5663ab\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\ament\.android\build-cache\da50ea0549149b4803c1aec912ca9c62c82382b6\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\ament\.android\build-cache\d97ca709116bc119ef142ac4537c03bab71d070b\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\ament\.android\build-cache\f84f374bcd2c3726e3eadf5301c6b4b8fcd898b1\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\ament\.android\build-cache\87cceed0a5bff8e12ea89e7420fdf8dd34914e37\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\ament\.android\build-cache\8e41db2ad0354c5f85157b72d7d491a2936eb3bf\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\ament\.android\build-cache\8d8362ee76287afe34070a20c41a8cdaf2cec33d\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\Users\ament\.android\build-cache\7f4c0f032cbc81d23d2cac507af38d79ae758eac\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ament\Documents\MEGA\Documenti\Documenti\Progetti ANDROID Studio\ParkCar\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\ament\.android\build-cache\dff82988d8db950138bf319777f0dffd6ae4aaa6\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\ament\.android\build-cache\49c179828c63d00f415806310924afa285b504cc\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\ament\.android\build-cache\dff82988d8db950138bf319777f0dffd6ae4aaa6\output\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\ament\.android\build-cache\dff82988d8db950138bf319777f0dffd6ae4aaa6\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\ament\.android\build-cache\49c179828c63d00f415806310924afa285b504cc\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\ament\.android\build-cache\dff82988d8db950138bf319777f0dffd6ae4aaa6\output\AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\ament\.android\build-cache\dff82988d8db950138bf319777f0dffd6ae4aaa6\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\ament\.android\build-cache\dff82988d8db950138bf319777f0dffd6ae4aaa6\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\ament\.android\build-cache\dff82988d8db950138bf319777f0dffd6ae4aaa6\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\ament\.android\build-cache\71328febab5f453bb3fc275d8540314bdd10cff8\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\ament\.android\build-cache\71328febab5f453bb3fc275d8540314bdd10cff8\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\ament\.android\build-cache\71328febab5f453bb3fc275d8540314bdd10cff8\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\ament\.android\build-cache\71328febab5f453bb3fc275d8540314bdd10cff8\output\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\ament\.android\build-cache\49c179828c63d00f415806310924afa285b504cc\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\ament\.android\build-cache\49c179828c63d00f415806310924afa285b504cc\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\ament\.android\build-cache\49c179828c63d00f415806310924afa285b504cc\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\ament\.android\build-cache\c352b9b1646859849042510b5920cff886407aa8\output\AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\ament\.android\build-cache\fcf0f78333ce9592976db1bb9417f68265b8b769\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\ament\.android\build-cache\936719cb334fea76c0fd75a8eadd38da3931bdaf\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\ament\.android\build-cache\936719cb334fea76c0fd75a8eadd38da3931bdaf\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\ament\.android\build-cache\936719cb334fea76c0fd75a8eadd38da3931bdaf\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\ament\.android\build-cache\936719cb334fea76c0fd75a8eadd38da3931bdaf\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\ament\.android\build-cache\936719cb334fea76c0fd75a8eadd38da3931bdaf\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\ament\.android\build-cache\4872addfb2f377dc7eb8bba49381e2fb4d5663ab\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\ament\.android\build-cache\4872addfb2f377dc7eb8bba49381e2fb4d5663ab\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\ament\.android\build-cache\4872addfb2f377dc7eb8bba49381e2fb4d5663ab\output\AndroidManifest.xml:20:20-65

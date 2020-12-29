@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\ament\\Documents\\MEGA\\Documenti\\Documenti\\Progetti ANDROID Studio\\ParkCar\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\ament\\.android\\build-cache\\7f4c0f032cbc81d23d2cac507af38d79ae758eac\\output\\res\\values-w720dp-v13\\values-w720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 76,
+                        "endOffset": 127
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "863591356386",
+    "firebase_url": "https://parkcar-7f29c.firebaseio.com",
+    "project_id": "parkcar-7f29c",
+    "storage_bucket": "parkcar-7f29c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863591356386:android:c9ec827d79383168",
+        "android_client_info": {
+          "package_name": "com.example.ste.parkcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863591356386-dj489avqr71trngjuv1dtoi84o88funn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ste.parkcar",
+            "certificate_hash": "145755827bd4e18e58a1fe00fe84bd4035037f2c"
+          }
+        },
+        {
+          "client_id": "863591356386-apacgb28dnhgo03tllc49ddlioioio72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV1rp8XjUaGNHHHIJWUoHeytF9RCjueSQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863591356386-apacgb28dnhgo03tllc49ddlioioio72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

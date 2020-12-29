@@ -1,0 +1,87 @@
+<resources>
+
+    <string name="app_name">ParkCar</string>
+
+    <!-- ITALIANO -->
+    <string name="CheVuoiFare">Cosa vorresti fare? \n\n\n</string>
+    <string name="StringaBenvenuto">Benvenuto in ParkCar. \n\n\n</string>
+    <string name="scopoApp">Questa applicazione é pensata essere un assistente per la tua auto. Essa ti aiuterà a:\n\n</string>
+    <string name="tracciaPosti">- Tener traccia dei luoghi da te visitati e poterli poi condividere in seguito con chi vuoi \n\n</string>
+    <string name="allarmeParco">- Impostare un allarme qualora ci fosse un disco orario da rispettare \n\n</string>
+    <string name="consumoCarburante">- Calcolare il consumo di carburante dell\'automobile, i km percorsi \n</string>
+    <string name="tornaALmenu">Digita OK per tornare alla schermata principale </string>
+    <string name="prezzototalecarburante">Prezzo totale carburante\n</string>
+    <string name="prezzototale">Prezzo totale\n</string>
+    <string name="unioneStringheFunzionalitaAPP">Tener traccia dei luoghi da te visitati e poterli poi condividere in seguito con chi vuoi \n\n- Impostare un allarme qualora ci fosse un disco orario da rispettare \n\n- Calcolare il consumo di carburante dell\'automobile, i km percorsi\n</string>
+    <string name="indietro">Indietro </string>
+    <string name="avanti">Avanti </string>
+    <string name="litricarburante">Litri carburante </string>
+    <string name="prezzocarburanteallitro">Prezzo carburante al litro </string>
+    <string name="esci">Esci </string>
+    <string name="schermataPrincipale">Home </string>
+    <string name="setup">Setup </string>
+    <string name="inseriscidatirichiesti">Inserisci i dati richiesti\n</string>
+    <string name="inseriscidatirichiestiescorriperrisultato">Inserisci i dati richiesti e scorri la pagina per vedere il risultato!\n</string>
+    <!-- GUIDA -->
+    <string name="guida">GUIDA </string>
+    <string name="intro">Introduzione </string>
+    <string name="TAPinfo">Fai un TAP sulla info che vuoi avere!</string>
+    <!-- GUIDA INTRODUZIONE -->
+    <string name="guidaIntroduzione">Questa applicazione è stata pensata per agevolare l\'utente nella gestione della propria routine automobilistica.\nEgli disporrà infatti della possibilità di memorizzazione della posizione nella quale ha parcheggiato l\'auto, salvando la sua posizione corrente. Egli potrà inoltre conservare i luoghi visitati in passato e condividerli con i propri amici.\nL\'utente potrà inoltre importare una sveglia per ricordarsi della scadenza di un disco orario di un parcheggio (o di un posto a pagamento) al quale deve prestare attenzione.\nInfine, egli disporra di una serie di strumenti interessanti da utilizzare in caso di necessità.  </string>
+    <!-- MAIN MENU -->
+    <string name="TAPmenu">Fai TAP su una delle scelte disponibili!</string>
+    <string name="posizione">Gestisci posizione\n</string>
+    <string name="discoorario">Gestisci disco orario\n</string>
+    <string name="discorario">Disco orario\n</string>
+    <string name="accediutility">Accedi alle Utility\n</string>
+    <string name="utility">Utility\n</string>
+    <!-- UTILITY -->
+    <string name="distanzadaPercorrere">Distanza da percorrere\n</string>
+    <string name="litridicarburanteconsumati">Litri di carburante consumati\n</string>
+    <string name="preventivocosti">Preventivo costi (soldi da spendere)\n</string>
+    <string name="scorripagina">Scorri la pagina per vedere il risultato\n</string>
+    <!-- DISCO ORARIO -->
+    <string name="clock">Clock\n</string>
+    <string name="inseriscioradiscoorario">Inserisci ora nel disco orario\n</string>
+    <string name="duratadiscoorario">Durata disco orario\n</string>
+    <string name="impostaora">Imposta ora\n</string>
+    <string name="oranonimpostata">Ora non ancora impostata\n</string>
+    <string name="resetora">Reset ora\n</string>
+    <!-- HINTS -->
+    <string name="numgiorni">Numero giorni\n</string>
+    <string name="numkm">Numero KM\n</string>
+    <string name="numlitri">Numero Litri\n</string>
+    <string name="andata">Andata</string>
+    <string name="consumo">Consumo auto (13 di default (km/l))</string>
+    <string name="numeroviaggi">Numero viaggi (1 di default)</string>
+    <string name="nviaggi">Numero viaggi)</string>
+    <string name="calcola">Calcola</string>
+    <string name="andataeritorno">Andata e ritorno</string>
+    <string name="sceglitraandataeritorno">Scegli la tipologia di viaggio</string>
+    <!-- POSIZIONE -->
+    <string name="chevuoifare">Cosa vuoi fare?</string>
+    <string name="memorizzaposizione">Memorizza la posizione dell\'auto\n</string>
+    <string name="tornaauto">Torna all\'auto\n</string>
+    <string name="posizionisalvate">Posizioni</string>
+    <string name="condividiposizionecorrente">Condividi posizione corrente\n</string>
+    <!-- POSIZIONI MEMORIZZATE -->
+    <string name="posizionimemorizzate">Vedi posizioni memorizzate</string>
+    <string name="Cancellatutteleposizioni">Cancella tutte le posizioni</string>
+    <string name="Cancellaunaposizione">Cancella una posizione</string>
+
+    <!-- INGLESE -->
+    <string name="WelcomeString">Benvenuto in ParkCar. \n\n\n</string>
+    <string name="goalApp">Questa applicazione é pensata essere un assistente per la tua auto. Essa ti aiuterà a:\n\n</string>
+    <string name="placesTrack">- Tener traccia dei luoghi da te visitati e poterli poi condividere in seguito con chi vuoi \n\n</string>
+    <string name="parkAlarm">- Impostare un allarme qualora ci fosse un disco orario da rispettare \n\n</string>
+    <string name="oilConsume">- Calcolare il consumo di carburante dell\'automobile, i km percorsi</string>
+    <string name="backToMainActivity">Press OK to return to the main page </string>
+    <string name="guide">GUIDA </string>
+    <string name="title_activity_torna_all_auto">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_vai_a_luogo">Map</string>
+
+
+</resources>

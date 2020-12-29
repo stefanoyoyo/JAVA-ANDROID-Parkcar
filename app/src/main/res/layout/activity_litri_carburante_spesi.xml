@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.ste.parkcar.Litri_carburante_spesi">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" >
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent" >
+
+                <TextView
+                    android:layout_width="207dp"
+                    android:layout_height="119dp"
+                    android:textStyle="bold|italic"
+                    android:textAlignment="center"
+                    android:textSize="30dp"
+                    android:id="@+id/textView19"
+                    android:text="@string/litridicarburanteconsumati"
+                    android:textColor="#0015ff"
+                    android:clickable="true" />
+
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/scrollView5" >
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" >
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textAlignment="inherit"
+                            android:id="@+id/textView9numgg"
+                            android:text="@string/nviaggi"
+                            android:clickable="true" />
+
+                        <EditText
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/editTextnumgiorni" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textAlignment="inherit"
+                            android:id="@+id/textView9"
+                            android:text="@string/numkm"
+                            android:clickable="true" />
+
+                        <EditText
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/editTextnumkm" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:textAlignment="inherit"
+                            android:id="@+id/textView12"
+                            android:text="@string/consumo"
+                            android:clickable="true" />
+
+                        <EditText
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/editTextnumviaggi" />
+
+                        <LinearLayout
+                            android:orientation="horizontal"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <ToggleButton
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent"
+                                android:textOff="@string/andata"
+                                android:textOn="@string/andata"
+                                android:id="@+id/toggleButtonandata"
+                                android:checked="false"
+                                android:layout_gravity="bottom" />
+
+                            <ToggleButton
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:textOff="@string/andataeritorno"
+                                android:textOn="@string/andataeritorno"
+                                android:id="@+id/toggleButtonandataeritorno"
+                                android:checked="false" />
+
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:orientation="vertical"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <Space
+                                android:layout_width="match_parent"
+                                android:layout_height="25dp" />
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:textAppearance="?android:attr/textAppearanceLarge"
+                                android:text="-->"
+                                android:textStyle="bold|italic"
+                                android:id="@+id/textView9distanzadapercorrere"
+                                android:layout_gravity="left|bottom" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+                </ScrollView>
+
+            </LinearLayout>
+
+            <Space
+                android:layout_width="25px"
+                android:layout_height="match_parent" />
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="top|right" >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:gravity="right"
+                        android:src="@drawable/p5"
+                        android:id="@+id/imageView4" />
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="@string/inseriscidatirichiestiescorriperrisultato"
+                    android:textStyle="bold|italic"
+                    android:id="@+id/textView23"
+                    android:layout_gravity="right" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center|bottom"
+            android:layout_gravity="bottom" >
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/schermataPrincipale"
+                android:id="@+id/button3" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="@string/indietro"
+                android:id="@+id/button4" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
+
